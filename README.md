@@ -1,6 +1,7 @@
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
 Features:
+
 -Custom artwork! 3+ masterfully drawn and realistically animated sprites.
 
 -Deep and engaging progression system! In SS2, time matters. Unlike other games, we don't reward you for running away and collecting gems later, but we incentivise running away and getting power ups naturally. 
