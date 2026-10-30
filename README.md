@@ -6,7 +6,7 @@ Features:
 
 -Deep and engaging progression system! In SS2, time matters. Unlike other games, we don't reward you for running away and collecting gems later, but we incentivise running away and getting power ups naturally. 
 
-With our patented FLIGHT OR FLIGHT gameplay and progression technology, the player is completely in control of their own progression. You gain additional weapons upon time survived instead of flawed systems like XP. The player has the nudge for self preservation, and they no longer have to take frustrating risks. Our R&D committees have found this approach 100% satisfactory and 0% unsatisfactory, with a margin of error of only 50%
+With our patented FLIGHT OR FLIGHT gameplay and progression technology, the player is completely in control of their own progression. You gain additional weapons upon time survived instead of flawed systems like XP. The player has the nudge for self preservation, and they no longer have to take frustrating risks. Our R&D committees have found this approach 100% satisfactory and 0% unsatisfactory, with a margin of error of only 50%!
 
 Let's hear what some of our awesome community members have to say about our humble little game!
 
