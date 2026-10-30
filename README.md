@@ -20,4 +20,4 @@ Snake Survivors 2 represents that fight for survival in a nuanced and, frankly b
 
 -Joey "The Nunchuck" Nickels
 
-Thank you, Barth and Joey for those kind words. Make sure to tell us your thoughts (for a chance to make it on the GitHub) on using this [link] (https://docs.google.com/forms/d/e/1FAIpQLSeNcGQFiBuDuvGqIEW2eLvE8LMO7ry_1nEUWoTJt4SMpytCmw/viewform?usp=publish-editor) .
+Thank you, Barth and Joey for those kind words. Make sure to tell us your thoughts (for a chance to make it on the GitHub) on using this [link](https://docs.google.com/forms/d/e/1FAIpQLSeNcGQFiBuDuvGqIEW2eLvE8LMO7ry_1nEUWoTJt4SMpytCmw/viewform?usp=publish-editor) .
