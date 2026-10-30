@@ -15,8 +15,8 @@ Across all the games I've ever played ever across all games I've played in the p
 
 -Barth "Biscuit" Sweetbean
 
-"I have one word to describe SS2: Engaging Narrative. The world is a winner-takes-all, dog eat dog kind of place, especially here in Chicago. 
-Snake Survivors 2 represents that fight for survival in a nuanced and, frankly beautiful manner. Every playthrough I'm reminded of my own life and my own struggles. I'm reliving them through this humble medium. Thank you SS2.... without you I'd be a lost man, but now I've been abl to come to terms with the meaning of life and my place in it."
+"I have one word to describe SS2: Engaging Narrative. The world is a winner-takes-all, dog-eat-dog kind of place, especially here in Chicago. 
+Snake Survivors 2 represents that fight for survival in a nuanced and, frankly beautiful manner. Every playthrough I'm reminded of my own life and my own struggles. I'm reliving them through this humble medium. Thank you SS2.... without you I'd be a lost man, but now I've been able to come to terms with the meaning of life and my place in it."
 
 -Joey "The Nunchuck" Nickels
 
